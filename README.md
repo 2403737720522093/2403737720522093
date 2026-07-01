@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-• Intro Section (Hi, I'm Your Name)
+• Intro Section (Hi, I'm Kowsika)
 • Typing Animation Banner
 • About Me Section
 • Portfolio + LinkedIn badges
